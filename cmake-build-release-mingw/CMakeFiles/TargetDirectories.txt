@@ -1,0 +1,3 @@
+C:/Users/fasol/CLionProjects/rubik_kubik/cmake-build-release-mingw/CMakeFiles/rubik_kubik.dir
+C:/Users/fasol/CLionProjects/rubik_kubik/cmake-build-release-mingw/CMakeFiles/edit_cache.dir
+C:/Users/fasol/CLionProjects/rubik_kubik/cmake-build-release-mingw/CMakeFiles/rebuild_cache.dir
